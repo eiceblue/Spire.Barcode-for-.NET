@@ -1,6 +1,6 @@
 # Spire.Barcode-for-.NET
 
-Spire.Barcode for .NET is a professional barcode component specially designed for .NET developers(C#, VB.NET, ASP.NET) to generate, read and scan 1D & 2D barcodes. Developers and programmers can use Spire.Barcode to add Enterprise-Level barcode formats to their .net applications quickly and easily.
+Spire.Barcode for .NET is a professional barcode component specially designed for .NET developers(C#, VB.NET, ASP.NET, .NET Core) to generate, read and scan 1D & 2D barcodes. Developers and programmers can use Spire.Barcode to add Enterprise-Level barcode formats to their .net applications quickly and easily.
 
 Spire.Barcode for .NET provides a very easy way to integrate barcode processing. With just one line of code to create, read 1D & 2D barcode, Spire.Barcode supports variable common image formats, such as Bitmap, JPG, PNG, EMF, TIFF, GIF and WMF.
 
